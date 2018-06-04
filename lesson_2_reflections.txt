@@ -17,6 +17,8 @@ When you want to try out something different, new and want to preserve the lates
 
 How do the diagrams help you visualize the branch structure?
 
+They help us understand which commits are reachable and which are not.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
