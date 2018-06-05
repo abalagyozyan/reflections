@@ -22,5 +22,7 @@ They help us understand which commits are reachable and which are not.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Commits get merged and git has an intelligent way of keeping what's needed. 
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
