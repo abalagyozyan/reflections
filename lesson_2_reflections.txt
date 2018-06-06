@@ -26,3 +26,5 @@ Commits get merged and git has an intelligent way of keeping what's needed.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Sometime there is no need to do things manually, git take care of things, but sometime, it , when there is conflict, merging manually may be a good idea
