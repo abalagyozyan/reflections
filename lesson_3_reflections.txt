@@ -3,3 +3,7 @@ There may be many different instances when creating a remote repository can be u
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 You don't want git to save every small and large change
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork copies a repository of someone else into your repository.
